@@ -1,5 +1,3 @@
-# Python program to create Bankaccount class
-# with both a deposit() and a withdraw() function
 class Bank_Account:
     def __init__(self):
         self.balance=0
